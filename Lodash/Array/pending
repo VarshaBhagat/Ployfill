@@ -1,0 +1,11 @@
+fill in built
+concat in built
+slice in built 
+
+_.differenceBy
+_.differenceWith
+_.dropRightWhile
+_.dropWhile
+
+_.findIndex
+_.findLastIndex
